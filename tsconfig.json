@@ -1,0 +1,13 @@
+
+
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "strict": true,
+    "moduleResolution": "node",
+    "module": "CommonJS",
+    "noImplicitAny": false,
+    "skipLibCheck": true,
+    "resolveJsonModule": true
+  }
+}
